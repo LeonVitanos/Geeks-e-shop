@@ -2,4 +2,6 @@
 
 In this project, i used HTML,PHP,CSS and MySQL to build a simple e-shop.
 
-[Link to website](http://leonvyta.webpages.auth.gr/geeks)
+![alt text](https://i.imgur.com/PUeTgtE.png)
+
+![alt text](https://i.imgur.com/DgRIfoM.png)
